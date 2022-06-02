@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AngularProject';
+
+  public showSidebar = true;
+  public showNavbar = true;
+
 }
